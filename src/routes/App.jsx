@@ -1,7 +1,7 @@
 import { NavLink, Outlet, Route, Routes } from "react-router-dom";
 import ErrorPage from "./ErrorPage";
 import Grandpa from "./Grandpa";
-import Home from "./home";
+import Home from "./Home";
 import OverReview from "./OverReview";
 
 
